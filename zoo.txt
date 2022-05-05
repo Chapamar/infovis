@@ -1,1 +1,9 @@
-
+patterns, spot trends, and identify outliers
+improve comprehension, memory, and decision making
+effective and engaging 
+visual encodings (position, size, shape, and color)
+graphical perception
+scalable vector graphics (SVG)
+brushing-and-linking
+space-filling
+adjacency matrix 
